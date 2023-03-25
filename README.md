@@ -1,2 +1,2 @@
 # Generic Chatting App
- Just a generic chatting app to learn React
+Just a generic chatting app to learn React
